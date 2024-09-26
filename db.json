@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "assignee": "John Doe",
+      "status": "In Progress",
+      "dueDate": "2024-10-10",
+      "priority": "High",
+      "comment": "Working on the initial setup"
+    },
+    {
+      "id": 2,
+      "assignee": "Jane Smith",
+      "status": "Completed",
+      "dueDate": "2024-09-25",
+      "priority": "Low",
+      "comment": "Task completed successfully"
+    },
+    {
+      "id": 3,
+      "assignee": "Mark Lee",
+      "status": "Pending",
+      "dueDate": "2024-11-01",
+      "priority": "Medium",
+      "comment": "Waiting for approval"
+    },
+    {
+      "id": 4,
+      "assignee": "isha",
+      "status": "pending",
+      "dueDate": "2002-06-12",
+      "priority": "medium",
+      "comment": "waiting"
+    },
+    {
+      "id": 5,
+      "assignee": "sagar",
+      "status": "Completed",
+      "dueDate": "1999-03-28",
+      "priority": "High",
+      "comment": "completed"
+    }
+  ]
+}
